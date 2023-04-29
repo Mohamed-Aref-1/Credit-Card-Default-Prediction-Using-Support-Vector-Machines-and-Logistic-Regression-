@@ -1,10 +1,10 @@
-# Credit-Card-Default-Prediction-Using-SVM-and-Logistic-Regression-A-Comparative-Analysis
+#1 Credit-Card-Default-Prediction-Using-SVM-and-Logistic-Regression-A-Comparative-Analysis
 This project uses SVM and Logistic Regression to predict credit card defaults using the UCI Credit Card dataset. It includes data preprocessing, one-hot encoding, model training, accuracy evaluation, and hyperparameter optimization.
 
 
-#Documentation: Credit Card Default Prediction Software
+# Documentation: Credit Card Default Prediction Software
 
-#Introduction:
+# Introduction:
 The Credit Card Default Prediction Software is designed to accurately predict credit card defaults using state-of-the-art machine learning techniques. It leverages the power of Support Vector Machines (SVM) and Logistic Regression models to analyze the UCI Credit Card dataset, enabling financial institutions to make informed decisions regarding credit risk assessment.
 
 #Dataset:
